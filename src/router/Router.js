@@ -3,9 +3,9 @@ import Basic from '../view/Basic'
 
 const Router = () => {
   return (  
-    <div className='body-bcakground-color'>
-      <Basic/>
-    </div>
+      <div>
+        
+      </div>
   )
 }
 
